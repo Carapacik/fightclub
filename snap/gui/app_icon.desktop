@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Fight Club
+Comment=Attack the enemy and defend yourself
+Exec=FightClub
+Icon=app_icon.png
+Terminal=false
+Type=Application
+Categories=Entertainment;
